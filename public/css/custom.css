@@ -1,0 +1,52 @@
+h1 {
+	color: #895fce;
+	text-shadow: 3px 3px 4px #d9ceed;
+}
+h1:hover {
+	text-shadow: 5px 5px 6px #d9ceed;
+}
+#post_here_button {
+	float: right;
+	
+}
+#read_more_text {
+	color: #ff3333;
+	font-size: 13px;
+	text-decoration: none;
+}
+#read_more_text a {
+	text-decoration: none;
+	list-style-type: none;
+}
+#read_more_text a:hover {
+	text-decoration: none;
+}
+#paginate_1 {
+	float: right;
+}
+header {
+	overflow: hidden;
+	background-color: #f1f1f1;
+	padding: 20px 10px;
+}
+#navbar-header {
+	display: inline-block;
+}
+#label_1 {
+	margin-right: -95px;
+	margin-left: 40px;
+	font-size: 14px;
+}
+#update_btn {
+	margin-left: -40px;
+}
+#search_option {
+	height: 20px;
+}
+#confirmation {
+	margin-left: 150px;
+}
+#search-btn {
+	width: 40px;
+    height: 34px;
+}
